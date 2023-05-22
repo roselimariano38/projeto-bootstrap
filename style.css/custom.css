@@ -1,0 +1,40 @@
+section {
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+}
+
+input,
+textarea {
+    margin-bottom: 1rem;
+}
+
+
+.card {
+    
+    width: 32%;
+    float: left;
+    margin: 7px;
+    text-align: center;
+}
+h1, h2, h5 {
+    font-family: 'Titillium Web', sans-serif;
+    color: #751E0D;
+}
+.col li a {
+  color: #C23215; 
+}
+p {
+    font-size: 1.4rem;
+}
+.border {
+    border: 10px solid #751E0D ;
+}
+@media screen and (max-width: 375px;) {
+    .card {
+     
+     width: 100%;
+     
+     
+    }
+  }
+   
